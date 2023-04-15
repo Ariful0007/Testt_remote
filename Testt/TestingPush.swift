@@ -17,4 +17,5 @@ struct TestingPush_Previews: PreviewProvider {
     static var previews: some View {
         TestingPush()
     }
+   
 }
