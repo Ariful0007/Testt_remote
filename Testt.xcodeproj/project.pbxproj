@@ -15,6 +15,7 @@
 		259385B529EA560000DD135B /* TesttUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 259385B429EA560000DD135B /* TesttUITests.swift */; };
 		259385B729EA560000DD135B /* TesttUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 259385B629EA560000DD135B /* TesttUITestsLaunchTests.swift */; };
 		259385C429EA5C0800DD135B /* SwiftSecond.swift in Sources */ = {isa = PBXBuildFile; fileRef = 259385C329EA5C0800DD135B /* SwiftSecond.swift */; };
+		259385C629EA5DD100DD135B /* TestingPush.swift in Sources */ = {isa = PBXBuildFile; fileRef = 259385C529EA5DD100DD135B /* TestingPush.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		259385B429EA560000DD135B /* TesttUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TesttUITests.swift; sourceTree = "<group>"; };
 		259385B629EA560000DD135B /* TesttUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TesttUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		259385C329EA5C0800DD135B /* SwiftSecond.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftSecond.swift; sourceTree = "<group>"; };
+		259385C529EA5DD100DD135B /* TestingPush.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestingPush.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				2593859D29EA560000DD135B /* Assets.xcassets */,
 				2593859F29EA560000DD135B /* Preview Content */,
 				259385C329EA5C0800DD135B /* SwiftSecond.swift */,
+				259385C529EA5DD100DD135B /* TestingPush.swift */,
 			);
 			path = Testt;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 			files = (
 				2593859C29EA55FF00DD135B /* MyView.swift in Sources */,
 				2593859A29EA55FF00DD135B /* TesttApp.swift in Sources */,
+				259385C629EA5DD100DD135B /* TestingPush.swift in Sources */,
 				259385C429EA5C0800DD135B /* SwiftSecond.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
