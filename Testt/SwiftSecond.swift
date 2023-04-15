@@ -11,6 +11,7 @@ struct SwiftSecond: View {
     var body: some View {
         Text("Ariful doing his job")
     }
+    
 }
 
 struct SwiftSecond_Previews: PreviewProvider {
@@ -18,3 +19,4 @@ struct SwiftSecond_Previews: PreviewProvider {
         SwiftSecond()
     }
 }
+
