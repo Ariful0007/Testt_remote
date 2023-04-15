@@ -6,10 +6,10 @@
 //
 
 import SwiftUI
-
+import UIKit;
 struct SwiftSecond: View {
     var body: some View {
-        Text("Ariful doing his job")
+        Text("Ariful doing his job\nmy job is to build ios printing sdk\nArif you have to do this project.");
     }
     
 }
